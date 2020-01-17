@@ -1,2 +1,4 @@
 # gantt-chart
-project management support with graph data structure
+Gantt chart for project management support represented as a directed acylic graph stored as an adjacency list. Also uses a linked list implementation of queue where each node has an array implementation of queue.
+
+Course project for Data Structures.
